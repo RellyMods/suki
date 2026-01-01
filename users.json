@@ -1,3 +1,14 @@
 {
-  "users": []
+  "users": [
+    {
+      "hash": "514e76e1d72cb18baa6c34deece34e516f42a5d75e95ceaab6853702ea288bfd",
+      "source": "manual",
+      "registeredAt": "2026-01-01T09:30:00Z"
+    },
+    {
+      "hash": "15ba2d6af80c07f4fb30dcdff1efff01665a9310be44f604f209b63c66df4bef",
+      "source": "manual",
+      "registeredAt": "2026-01-01T09:30:00Z"
+    }
+  ]
 }
