@@ -9,6 +9,11 @@
       "hash": "15ba2d6af80c07f4fb30dcdff1efff01665a9310be44f604f209b63c66df4bef",
       "source": "manual",
       "registeredAt": "2026-01-01T09:30:00Z"
+    },
+    {
+      "hash": "d730b37db9e921ededdaf5bb4170b14f8c5f571a7a9297c84036c7560da39623",
+      "source": "telegram",
+      "registeredAt": "2026-01-02T09:54:05.460Z"
     }
   ]
 }
